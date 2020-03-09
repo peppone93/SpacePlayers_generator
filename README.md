@@ -3,9 +3,9 @@ SPACE PLAYER GENERATOR
 Description coming soon
 
 
-![alt text](screens/screen1.jpg)
-![alt text](screens/screen2.jpg)
-![alt text](screens/screen3.jpg)
+![alt text](screens/screen1.JPG)
+![alt text](screens/screen2.JPG)
+![alt text](screens/screen3.JPG)
 
 Fonts source: [dafont.com](https://www.dafont.com/fr/)
 
