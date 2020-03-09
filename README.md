@@ -9,9 +9,9 @@ The class of the player added with the second button is semi-random:
 * If one class is more widespread than the others, its possibilities are recalculated with respect to the least widespread class.
 > Ex:
 > * There are 10 Engineers, 10 Politics, 10 Pilots, 10 Androids, 8 Militaries
-      New Chances (Engineers 15% ; Politics 15% ; Pilots 15% ; Androids 15% ; Militaries 40%)
+> New Chances (Engineers 15% ; Politics 15% ; Pilots 15% ; Androids 15% ; Militaries 40%)
 > * There are 5 Engineers, 3 Politics, 4 Pilots, 10 Androids, 6 Militaries
-      New Chances (Engineers 6,6% ; Politics 80% ; Pilots 13,3% ; Androids 0% ; Militaries 0%)
+> New Chances (Engineers 6,6% ; Politics 80% ; Pilots 13,3% ; Androids 0% ; Militaries 0%)
 
 
 ![alt text](screens/screen2.JPG)
