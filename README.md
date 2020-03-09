@@ -2,7 +2,10 @@ SPACE PLAYER GENERATOR
 
 Description coming soon
 
-Screens coming soon
+
+![alt text](screens/screen1.jpg)
+![alt text](screens/screen2.jpg)
+![alt text](screens/screen3.jpg)
 
 Fonts source: [dafont.com](https://www.dafont.com/fr/)
 
