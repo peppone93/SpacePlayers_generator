@@ -19,3 +19,5 @@ The class of the player added with the second button is semi-random:
 
 * Fonts source: [dafont.com](https://www.dafont.com/fr/)
 * Skybox source: [doc.babylonjs.com](https://doc.babylonjs.com/resources/playground_textures#cubetextures)
+
+The entiere code of this project is public.
