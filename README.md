@@ -1,7 +1,8 @@
 SPACE PLAYER GENERATOR
 
 This project consists of creating an interface which includes a list of players, having a name and a class.
-The number of players is random, between 20 and 50, the class of each player is also random, among the following: "Engineer", "Politic", "Pilot", "Android", "Military".
+The number of players is random, between 20 and 50.
+The class of each player is also random, among the following: "Engineer", "Politic", "Pilot", "Android", "Military".
 
 The first button allows to delete the list and generate a new (random) one, the second button to add a player on the top of the list and the third to just clean the list.
 
@@ -21,4 +22,4 @@ The class of the player added with the second button is semi-random:
 * Fonts source: [dafont.com](https://www.dafont.com/fr/)
 * Skybox source: [doc.babylonjs.com](https://doc.babylonjs.com/resources/playground_textures#cubetextures)
 
-For this project I decided to make make all files public but please do not hesitate to contact me if need additional details. 
+For this project I decided to make all files public but please do not hesitate to contact me if need additional details. 
